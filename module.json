@@ -7,7 +7,7 @@
     "namespace": "Corals\\Modules\\Payment\\Cash\\",
     "provider": "CashServiceProvider",
     "version": "3.2.2",
-    "folder": "Stripe",
+    "folder": "payment-cash",
     "autoload": "psr-4",
     "icon": "fa fa-cc-stripe",
     "require": {

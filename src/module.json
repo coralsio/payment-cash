@@ -6,7 +6,7 @@
   "description": "Payment Gateway, charges, subscriptions, invoices... to support Cash on delivery (COD)",
   "namespace": "Corals\\Modules\\Payment\\Cash",
   "version": "2.0.1",
-  "folder": "Cash",
+  "folder": "payment-cash",
   "autoload": "psr-4",
   "icon": "fa fa-money",
   "require": {
